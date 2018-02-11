@@ -1,0 +1,17 @@
+{
+  "name": "google-sheets-reader",
+  "version": "0.1.0",
+  "description": "As the name implies",
+  "main": "index.js",
+  "dependencies": {
+    "@types/jquery": "^3.2.12",
+    "jquery": "^3.2.1",
+    "typescript": "^2.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chad Estioco",
+  "license": "MIT"
+}
